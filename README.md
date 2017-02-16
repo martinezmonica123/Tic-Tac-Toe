@@ -2,7 +2,7 @@
 
 ##	1. Overview: 
 	     This TicTacToe implementation keeps a record of all the moves made by both 
-      computer and the human players. By doing so the computer is able to block winning moves 
+        computer and the human players. By doing so the computer is able to block winning moves 
         and make its own winning moves whenever possible. When not possible moves are made based on
         slots more likely to generate winning sequences. (Mainly center, corner, then edge locations.)
 ##  2. Specifications: 
